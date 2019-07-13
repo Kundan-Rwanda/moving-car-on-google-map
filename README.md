@@ -7,4 +7,4 @@ This Project is created to animate/move car on google map like ola, uber or any 
 ** Animating Object(Car) on Google Map
 
 # Project Courtesy:
-** [EDMT Dev Published on Oct 30, 2017]https://www.youtube.com/watch?v=mAotyuaOAb0  
+** [EDMT Dev](https://www.youtube.com/watch?v=mAotyuaOAb0)  
